@@ -7,3 +7,5 @@
 
 ![](https://raw.githubusercontent.com/iampartho/EEE-428-project/main/scale.jpg)
 ### In the scale every 10 represents 1 cm
+
+## FPS is ~ 56 ; wheareas input better video is 20 FPS , so it is even better than Real Time
